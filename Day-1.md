@@ -33,6 +33,8 @@ Before we jump in, make sure you have:
 
 2. **Create a New Virtual Network**:
    - Hit the **"Create"** button to start crafting your VNet.
+     ![Screenshot 2024-10-29 203049](https://github.com/user-attachments/assets/592661da-1c23-4e91-be38-e108b0d6ea20)
+
 
 3. **Configure Your Virtual Network**:
    - **Select Subscription**: Pick your Azure subscription from the dropdown.
@@ -40,10 +42,14 @@ Before we jump in, make sure you have:
    - **Instance Details**:
      - **Name**: Give your virtual network a catchy name (e.g., `MyVNet`).
      - **Region**: Choose a region that’s convenient for you (e.g., `South India`).
+       ![Screenshot 2024-10-29 203620](https://github.com/user-attachments/assets/4e476ff5-0170-4a99-a995-6eea4e7880fb)
+
 
 4. **Set Up IP Addresses**:
    - Head to the **"IP Addresses"** tab.
    - Click on **"Create New IP Address"** to define your address space (try something like `10.0.0.0/16`).
+     ![Screenshot 2024-10-29 203634](https://github.com/user-attachments/assets/3539fb82-45bb-4d12-8fbc-ca02b23b2f71)
+
 
 5. **Create a Subnet**:
    - Under the **"Subnets"** section, click on **"Add subnet"**.
@@ -54,9 +60,13 @@ Before we jump in, make sure you have:
 6. **Review and Create**:
    - Now, click on **"Review + create"**. 
    - After checking everything, hit **"Create"** to deploy your virtual network.
+     ![Screenshot 2024-10-29 203658](https://github.com/user-attachments/assets/3dc5af41-3f4f-4df0-b48d-cdf8c4fcd01a)
+
 
 7. **View Your Virtual Network**:
    - Once the deployment is completed, navigate back to **"Virtual networks"**.
+![Screenshot 2024-10-29 203731](https://github.com/user-attachments/assets/e7ee4eb8-7777-46e1-852c-2553dec80874)
+
    - Click on your VNet to explore its details and subnets. You can add more subnets if you wish!
 
 ---
@@ -69,6 +79,8 @@ Before we jump in, make sure you have:
 
 2. **Create a New Virtual Machine**:
    - Click on **"Create"** and select **"Azure Virtual Machine"**. 
+![Screenshot 2024-10-29 204730](https://github.com/user-attachments/assets/d96cd096-e7e5-4807-bb50-1a9cc51c33fc)
+
 
 3. **Fill in the Required Information**:
    - **Select Subscription**: Choose the same subscription you used before.
@@ -88,6 +100,8 @@ Before we jump in, make sure you have:
 5. **Configure Disks**:
    - In the **"Disks"** tab:
      - Choose **"Standard SSD"** as your OS disk type.
+![Screenshot 2024-10-29 204747](https://github.com/user-attachments/assets/22461244-b54d-421a-b60d-b0e6aeda14c6)
+
      - Leave the rest as it is,you can even customise the other specifications.
 
 6. **Networking**:
@@ -95,10 +109,13 @@ Before we jump in, make sure you have:
      - **Virtual Network**: Select your VNet (`MyVNet`).
      - **Subnet**: Choose the subnet you just created (`MySubnet`).
      - You can adjust public IP and NSG settings as needed.
+![Screenshot 2024-10-29 204916](https://github.com/user-attachments/assets/c660447f-6118-4b52-986e-62f31e903a83)
+
 
 7. **Review and Create**:
    - Click **"Review + create"**.
    - After a quick validation check, hit **"Create"** to deploy your VM. 
+
 
 ---
 
@@ -114,9 +131,12 @@ Before we jump in, make sure you have:
 
 3. **Download the RDP File**:
    - Click on **"Download RDP File"**. This will save a connection file to your computer.
+     ![Screenshot 2024-10-29 205613](https://github.com/user-attachments/assets/d7a5c3eb-c7e1-47a6-acf9-9eb02af17e36)
+
 
 4. **Open the RDP File**:
    - Find the downloaded RDP file and double-click it to open.
+
 
 5. **Enter Your Credentials**:
    - When prompted, enter the username and password you set up earlier.
