@@ -41,7 +41,7 @@ To create a Virtual Machine, follow the detailed steps provided in the [VM Creat
 
 ---
 
-### 🛠️ Steps to Create Private and Public Subnets in a VNet
+### Steps to Create Private and Public Subnets in a VNet
 
 1. **Navigate to the VNet**:
    - On the Azure portal’s home page, go to **Virtual Networks**, find and open your VNet (e.g., `MyVNet`).
