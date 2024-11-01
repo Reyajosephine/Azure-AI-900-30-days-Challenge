@@ -82,3 +82,4 @@ Want to share your website with the world? Hosting a static site, made up of HTM
 - **Organize Files**: Use folders to keep things organized, like putting images or stylesheets in separate subfolders.
 
 That’s it! Your static website is now online via Azure Blob Storage. If you want faster load times globally, you can look into Azure CDN integration later. Happy hosting!
+**Click here for** [Demo Video](https://www.linkedin.com/posts/reya-josephine-a871a827b_azure-cloudcomputing-staticweb-activity-7258189056616890368-d53z?utm_source=share&utm_medium=member_desktop)
