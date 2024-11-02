@@ -151,6 +151,6 @@ Before we jump in, make sure you have:
 ---
 ## Check out the demo VM
 
-https://www.linkedin.com/posts/reya-josephine-a871a827b_azure-cloudcomputing-learningjourney-activity-7257066999334281216-4yX_?utm_source=share&utm_medium=member_desktop
+[Azure Virtual Network and Virtual Machine Setup Guide](https://www.linkedin.com/posts/reya-josephine-a871a827b_azure-cloudcomputing-learningjourney-activity-7257066999334281216-4yX_?utm_source=share&utm_medium=member_desktop)
 
 And that’s it! You’ve successfully created a Virtual Network and a Virtual Machine in Azure. If you have any questions or run into issues, feel free to ask. Happy cloud computing! ☁️
