@@ -162,6 +162,10 @@ Azure Language Service enables you to create a custom Q 'n' A chatbot that can i
 
 ![image](https://github.com/user-attachments/assets/6689319f-a27e-47f3-8055-c443d6303a81)
 
+## Demo video
+Click here for Demo video:
+[Building a Custom Q 'n' A Chatbot with Language Service in Azure](https://www.linkedin.com/posts/reya-josephine-a871a827b_azure-aichatbot-qnabot-activity-7258549542969630720-npFR?utm_source=share&utm_medium=member_desktop)
+
 
 ---
 
