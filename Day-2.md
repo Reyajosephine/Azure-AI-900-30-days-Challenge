@@ -78,4 +78,4 @@ To create a Virtual Machine, follow the detailed steps provided in the [VM Creat
 This setup lets your VM access both internal resources via the private subnet and external resources via the public subnet, enabling you to securely manage and expand your Azure network configuration.
 
 For more details, refer back to the [VM Creation Guide](https://github.com/Reyajosephine/Azure-30-days-Challenge/blob/main/Day-1.md).
-**Click here for** [Demo video](https://www.linkedin.com/posts/reya-josephine-a871a827b_azure-cloudnetworking-cloudcomputing-activity-7257458155893194753-jTBh?utm_source=share&utm_medium=member_desktop)
+**Click here for Demo video***[Azure Virtual Machine & Network Setup Guide](https://www.linkedin.com/posts/reya-josephine-a871a827b_azure-cloudnetworking-cloudcomputing-activity-7257458155893194753-jTBh?utm_source=share&utm_medium=member_desktop)
