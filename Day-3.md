@@ -69,4 +69,4 @@ A Network Security Group (NSG) in Azure is a security layer that controls inboun
 - Attach the NSG to the specific subnet in the Virtual Network where the VMs are located for maximum connectivity.
 
 Using this setup, your VMs should now be able to securely communicate within the network, with traffic controlled by your NSG rules.
-For more details, refer back to the [VM Creation Guide](https://github.com/Reyajosephine/Azure-30-days-Challenge/blob/main/Day-1.md). Click here for [Demo video](https://www.linkedin.com/posts/reya-josephine-a871a827b_azure-networksecurity-cloudcomputing-activity-7257805409367793666-Q1qD?utm_source=share&utm_medium=member_desktop)
+For more details, refer back to the [VM Creation Guide](https://github.com/Reyajosephine/Azure-30-days-Challenge/blob/main/Day-1.md). Click here for Demo video [Multiple VMs and Network Security Group (NSG) Setup in Azure](https://www.linkedin.com/posts/reya-josephine-a871a827b_azure-networksecurity-cloudcomputing-activity-7257805409367793666-Q1qD?utm_source=share&utm_medium=member_desktop)
