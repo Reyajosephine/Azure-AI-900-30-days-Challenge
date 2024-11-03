@@ -89,8 +89,11 @@ This guide will walk you through deploying **Text-Embedding-3-Large** in Azure O
 
       ![Screenshot 2024-11-04 000150](https://github.com/user-attachments/assets/8d7fa2a5-dbcf-46d3-bf28-3c2078ce6d98)
 
+## Demo video
+Click here for demo video [How to Deploy the Text-Embedding-3-Large Model in Azure OpenAI Studio](https://www.linkedin.com/posts/reya-josephine-a871a827b_azureopenai-textembedding-azureai-activity-7258914832442097664-wCmR?utm_source=share&utm_medium=member_desktop)
+
 ---
 
 ## Final Steps
 
-And there you have it! With **Text Embedding 3 Large** now deployed in Azure OpenAI Studio, you're ready to start generating embeddings that power smarter search, recommendations, and other text-based AI applications. From here, you can explore additional configurations, track performance, or integrate the model directly into your workflows. Happy deploying!
+And there you have it! With **Text-Embedding-3-Large** now deployed in Azure OpenAI Studio, you're ready to start generating embeddings that power smarter search, recommendations, and other text-based AI applications. From here, you can explore additional configurations, track performance, or integrate the model directly into your workflows. Happy deploying!
