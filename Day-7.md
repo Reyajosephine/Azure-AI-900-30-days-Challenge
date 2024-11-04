@@ -161,6 +161,9 @@ Once the training is complete, you can view:
 
 These metrics help you understand how well the model performed and provide insights for further tuning or deployment.
 
+## Demo video
+Click here for demo video [Training and Testing a Linear Regression Model in Azure Machine Learning Studio](https://www.linkedin.com/posts/reya-josephine-a871a827b_azureml-machinelearning-datascience-activity-7259242935752286209-qa8m?utm_source=share&utm_medium=member_desktop)
+
 ---
 
 ## Conclusion
