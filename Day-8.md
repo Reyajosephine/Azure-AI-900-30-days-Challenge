@@ -72,6 +72,9 @@ This guide will walk you through the steps to take a snapshot of an existing Vir
 10. **Check the New VM Resource**
     - Once deployed, click on **go to resource** to check the status of your new VM.
 
+## Demo video
+-Click here for demo video [Guide to Create VMs from Snapshots in Azure](https://www.linkedin.com/posts/reya-josephine-a871a827b_azure-virtualmachines-snapshots-activity-7259632142173798400-vGu0?utm_source=share&utm_medium=member_desktop)
+
 ## Additional Resources
 - For more detailed instructions, refer to the official [Azure Virtual Machines Documentation](https://docs.microsoft.com/en-us/azure/virtual-machines/).
 - Check out my prevoius guide for steps to create a VM [Azure Virtual Network and Virtual Machine Setup Guide](https://github.com/Reyajosephine/Azure-30-days-Challenge/blob/main/Day-1.md)
