@@ -85,5 +85,5 @@ In Azure, you can set up alerts to notify you about key events and resource chan
 
 ## Additional Resources
 - For more details on Azure Alerts, visit the [Azure Alerts Documentation](https://learn.microsoft.com/azure/monitoring/).
-- Click here for demo video [Setting Up Azure Alert Notifications with Action Groups and Alert Rules]()
+- Click here for demo video [Setting Up Azure Alert Notifications with Action Groups and Alert Rules](https://www.linkedin.com/posts/reya-josephine-a871a827b_azurealerts-realtimemonitoring-azurecloud-activity-7260356193716510721-8iSC?utm_source=share&utm_medium=member_desktop)
 
