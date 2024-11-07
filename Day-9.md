@@ -101,7 +101,7 @@ Following these steps helps you enforce organizational standards using Azure Pol
 ### Additional Resources
 - [Azure Policy Documentation](https://docs.microsoft.com/azure/governance/policy/overview)
 - [Azure Policy Samples](https://docs.microsoft.com/azure/governance/policy/samples/)
--Demo video[Azure Policy & Policy Definition: Setting Up for Compliance and Control]()
+-Demo video [Azure Policy & Policy Definition: Setting Up for Compliance and Control](https://www.linkedin.com/posts/reya-josephine-a871a827b_azurepolicy-compliance-governance-activity-7259994157799112706-EyUv?utm_source=share&utm_medium=member_desktop)
 
 ---
 
