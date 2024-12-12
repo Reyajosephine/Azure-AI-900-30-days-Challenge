@@ -43,11 +43,12 @@
 
 2. **Choose PowerShell**
    - If prompted, select **PowerShell** as the shell type.
-     ![image](https://github.com/user-attachments/assets/58c60fcf-7db6-42e7-8bbd-44fa10866084)
-
-
+     ![image](https://github.com/user-attachments/assets/27a59eaa-9bbf-4c3f-b998-94afe30ba95a)
+     
 3. **Set Up Cloud Shell Storage**
    - If required, follow the prompts to create a storage account for Cloud Shell.
+     ![image](https://github.com/user-attachments/assets/64d1616a-1e9f-489f-a3e8-0d5c5a92ffe9)
+
 
 4. **Confirm Shell Type**
    - Ensure the shell is set to **PowerShell**. If it is set to **Bash**, switch to PowerShell using the dropdown menu.
