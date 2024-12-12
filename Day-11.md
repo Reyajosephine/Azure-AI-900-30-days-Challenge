@@ -27,6 +27,8 @@
 5. **Access Keys and Endpoint**
    - After deployment, navigate to the resource.
    - Go to the **Keys and Endpoint** section.
+     ![image](https://github.com/user-attachments/assets/e09d168b-e691-4f72-bcd6-a60c1c583e09)
+
    - Note down the **Endpoint URL** and **Key** values.
 
 ---
