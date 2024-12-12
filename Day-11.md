@@ -133,3 +133,7 @@
      - Relevant tags for each image.
 
 ---
+
+## Additional Resources
+- Click here for demo video [Setting Up an Azure AI Services Resource and Testing the Computer Vision Service](https://www.linkedin.com/posts/reya-josephine-a871a827b_azureai-computervision-cloudcomputing-activity-7273005873591894018-NGZT?utm_source=share&utm_medium=member_desktop)
+
