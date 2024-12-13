@@ -165,3 +165,6 @@ Refer to the image for connections:
 ---
 
 Now you have the evaluation results from your classification pipeline! Let me know if you need further assistance in interpreting the results or tweaking the pipeline.
+
+## Additional Resources
+- Click here for demo video [Azure Machine Learning Designer - Classification with Diabetes Dataset](https://www.linkedin.com/posts/reya-josephine-a871a827b_azuremachinelearning-machinelearning-datascience-activity-7273407897621995520-Qx0v?utm_source=share&utm_medium=member_desktop)
