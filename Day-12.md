@@ -129,6 +129,13 @@ This project demonstrates clustering using Azure Machine Learning Designer, util
 ![image](https://github.com/user-attachments/assets/cafd5214-3c7c-47c2-9f0b-c783fadcc5c7)
 
 
+## Additional Resources
+- Click here for demo video [Azure Machine Learning Designer - Clustering with Seeds Dataset](https://www.linkedin.com/posts/reya-josephine-a871a827b_azuremachinelearning-clustering-machinelearning-activity-7273102379804205057-9MR1?utm_source=share&utm_medium=member_desktop)
+
+
+
+
 ---
 
 Now you have the evaluation results from your clustering pipeline! Let me know if you need further assistance in interpreting the results or tweaking the pipeline.
+
