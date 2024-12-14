@@ -1,4 +1,4 @@
-# Object Detection Lab
+# Object Detection with Azure AI Services - Traffic Safety
 
 Object detection is a key area of computer vision that trains models to identify and locate specific objects within images. Unlike simple image classification, object detection also provides the coordinates of objects, enabling answers to questions like: *"What objects are in this image, and where are they located?"*
 
