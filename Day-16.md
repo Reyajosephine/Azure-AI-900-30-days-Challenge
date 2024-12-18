@@ -20,7 +20,8 @@ Microsoft Azure's Custom Vision service simplifies creating and deploying custom
 2. Click **+ Create a resource** and search for **Azure AI services**.
 3. Select **Create an Azure AI services plan**.
 
-![Uploading image.png…]()
+![image](https://github.com/user-attachments/assets/53b78fbf-b814-4a19-abd5-2ba95c856f35)
+
 
 4. Set up the resource:
    - **Subscription**: Select your subscription.
