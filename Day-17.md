@@ -167,3 +167,7 @@ Note that Face service capabilities involving personally identifiable informatio
 ## Next Steps
 
 Experiment with different images and explore advanced features of the Face API for deeper insights!
+
+## Additional Resources
+- Click here for demo video [Face Recognition with Azure Face API](https://www.linkedin.com/posts/reya-josephine-a871a827b_azureai-facerecognition-machinelearning-activity-7275217619685666816-RNrR?utm_source=share&utm_medium=member_desktop)
+
