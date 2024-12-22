@@ -190,4 +190,7 @@ $predictionKey = "<your-prediction-key>"
 If all images are classified correctly, your image classification model is successfully trained, tested, and deployed!  
 You can now use this model in real-world applications to classify images of animals and support conservation efforts.
 
+## Additional Resources
+- Click here for demo video [Image Classification with Azure Custom Vision](https://www.linkedin.com/posts/reya-josephine-a871a827b_azureai-imageclassification-customvision-activity-7273766195768496129-enGK?utm_source=share&utm_medium=member_desktop)
+
 
