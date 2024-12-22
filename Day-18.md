@@ -114,3 +114,7 @@ Optical Character Recognition (OCR) involves detecting and interpreting text wit
 
 ## Learn More  
 To explore additional OCR capabilities of Azure AI Vision, visit the official [OCR Documentation](https://learn.microsoft.com/en-us/azure/cognitive-services/computer-vision/overview-ocr).  
+
+## Additional Resources
+- Click here for demo video [Optical Character Recognition (OCR) with Azure AI Vision](https://www.linkedin.com/posts/reya-josephine-a871a827b_azureai-opticalcharacterrecognition-machinelearning-activity-7276283527694823424-FuQ9?utm_source=share&utm_medium=member_desktop)
+
