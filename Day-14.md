@@ -167,3 +167,6 @@ The application will analyze each review and return several pieces of informatio
 You have successfully set up and used Azure's Language service to analyze text reviews. The Language service can be extended to various other text analysis tasks such as sentiment analysis, language detection, and key phrase extraction.
 
 Feel free to modify the sample code and integrate it into your own applications!
+
+## Additional Resources
+- Click here for demo video [Azure Machine Learning Designer - Classification with Diabetes Dataset](https://www.linkedin.com/posts/reya-josephine-a871a827b_azureai-textanalytics-ai-activity-7273645404347363328-_7d1?utm_source=share&utm_medium=member_desktop)
