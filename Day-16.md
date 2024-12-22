@@ -152,4 +152,7 @@ Microsoft Azure's Custom Vision service simplifies creating and deploying custom
 
 ---
 
-By following these steps, you’ve successfully explored object detection using Azure Custom Vision. 🎉
+By following these steps, you’ve successfully explored object detection using Azure Custom Vision. 
+
+## Additional Resources
+- Click here for demo video [Object Detection with Azure AI Services - Traffic Safety](https://www.linkedin.com/posts/reya-josephine-a871a827b_azureai-objectdetection-customvision-activity-7274370207110836224-GTGJ?utm_source=share&utm_medium=member_desktop)
