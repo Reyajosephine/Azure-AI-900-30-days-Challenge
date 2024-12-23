@@ -97,8 +97,8 @@ We will build a basic command-line application that uses the Azure AI Speech ser
 
 ## Audio Files
    Download the audio files from below:
-   -[Input Audio](https://github.com/Reyajosephine/Azure-AI-900-30-days-Challenge/blob/main/azure%20speech%20input.mp4)
-   -[Output Audio](https://github.com/Reyajosephine/Azure-AI-900-30-days-Challenge/blob/main/azure%20speech%20output.mp4)
+   - [Input Audio](https://github.com/Reyajosephine/Azure-AI-900-30-days-Challenge/blob/main/azure%20speech%20input.mp4)
+   - [Output Audio](https://github.com/Reyajosephine/Azure-AI-900-30-days-Challenge/blob/main/azure%20speech%20output.mp4)
    
 
 ---
