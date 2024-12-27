@@ -12,10 +12,19 @@ This guide will walk you through the process of creating a custom question-answe
 
 ### **2. Create a Language Service Resource**
 1. Click the **＋Create a resource** button.
+
+   ![image](https://github.com/user-attachments/assets/3049e99d-3547-4895-90a6-e1771e033f5f)
+
 2. Search for **Language service** and select it.
 3. Click **Create** and configure with the following:
+
+   ![image](https://github.com/user-attachments/assets/32d2faaa-208c-45a9-b1ee-89bfbfb309d9)
+
    - **Default Features**: Keep default.
    - **Custom Features**: Select **Custom question answering**.
+
+     ![image](https://github.com/user-attachments/assets/0b3a2876-436d-4ea1-9afb-86cfc23bdabe)
+
 
 4. On the **Create Language** page, provide the following:
    - **Subscription**: Your Azure subscription.
@@ -42,6 +51,9 @@ This guide will walk you through the process of creating a custom question-answe
    - **Azure directory**: Your subscription’s directory.
    - **Azure subscription**: Your subscription.
    - **Language resource**: The one you just created.
+
+     ![image](https://github.com/user-attachments/assets/d6eff3a4-48c0-4f06-834b-60cff6b7694f)
+
 2. If not prompted:
    - Click the **⚙ Settings** button at the top.
    - Go to the **Resources** tab, select your resource, and click **Switch resource**.
@@ -52,6 +64,9 @@ This guide will walk you through the process of creating a custom question-answe
 
 ### **1. Start a New Project**
 1. In Language Studio, click **Create new** and select **Custom question answering**.
+
+   ![image](https://github.com/user-attachments/assets/f5b97c8f-fbe8-4a0e-814d-64f363552c41)
+
 
 ### **2. Configure Project Settings**
 1. On the **Choose language setting for resource** page, select:
@@ -77,6 +92,9 @@ This guide will walk you through the process of creating a custom question-answe
    - **URL name**: `MargiesKB`.
    - **URL**: `https://raw.githubusercontent.com/MicrosoftLearning/AI-900-AIFundamentals/main/data/qna/margies_faq.docx`.
    - **Classify file structure**: Auto-detect.
+     
+     ![image](https://github.com/user-attachments/assets/63e01d66-0f31-446e-b670-fb5545bf9ab2)
+
 4. Click **Add all**.
 
 ### **2. Edit the Knowledge Base**
@@ -86,6 +104,9 @@ This guide will walk you through the process of creating a custom question-answe
    - **Answer**: `Hello`.
    - **Source**: Editorial.
    - Add an alternate phrase: `Hi`.
+
+     ![image](https://github.com/user-attachments/assets/4d5db2f2-be6a-4711-9fbc-f1911c1f79fa)
+
 3. Save changes.
 
 ---
@@ -95,6 +116,9 @@ This guide will walk you through the process of creating a custom question-answe
 ### **1. Train the Knowledge Base**
 1. Click **Test** at the top of the page.
 
+   ![image](https://github.com/user-attachments/assets/32348fa6-21d4-404c-9262-e652caa3d86f)
+
+
 ### **2. Test Responses**
 1. Enter:
    - `Hi` → Response: `Hello`.
@@ -102,6 +126,9 @@ This guide will walk you through the process of creating a custom question-answe
    - `How can I cancel a reservation?` → Matching FAQ response.
 
 2. Test short and verbose answer options using the **Display short answer** checkbox.
+
+   ![image](https://github.com/user-attachments/assets/6cb83bee-67a5-438e-9fd9-d02a46358090)
+
 
 3. Close the test pane when finished.
 
@@ -112,6 +139,9 @@ This guide will walk you through the process of creating a custom question-answe
 ### **1. Deploy the Knowledge Base**
 1. Click **Deploy knowledge base** in Language Studio.
 2. Click **Deploy**, confirm, and wait for deployment.
+
+   ![image](https://github.com/user-attachments/assets/2e3e5388-7c04-4587-8c87-121d9a745ce5)
+
 
 ### **2. Create a Web App Bot**
 1. Click **Create a bot** to open the Azure portal.
@@ -130,10 +160,17 @@ This guide will walk you through the process of creating a custom question-answe
 ## **Step 7: Test the Bot**
 
 1. In the Azure portal, go to your bot resource.
+   
+   ![image](https://github.com/user-attachments/assets/0c5d7c71-298a-4318-9f67-3e3db070f5de)
+
 2. Click **Test in Web Chat** in the left-hand menu.
 3. Test questions like:
    - `I need to cancel my hotel` → Correct FAQ response.
    - Other FAQs from the knowledge base.
+     
+     ![image](https://github.com/user-attachments/assets/36e2636b-0b56-4599-988c-beb8e9a91088)
+
+     
 
 ---
 
